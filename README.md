@@ -1,1 +1,3 @@
 AI Skill Evaluator and Question Generator
+
+This project is an AI-driven skill evaluation system that automatically assesses theoretical and coding abilities using a combination of Qwen (a leading Chinese LLM) and real code execution. The system generates questions, evaluates theoretical answers through Qwen’s semantic reasoning capabilities, executes coding submissions using Judge0 to validate them against test cases, and scores both sections objectively. It then computes a final score, assigns a performance rank, and provides detailed feedback for every question. Overall, the project delivers a fully automated, multilingual, and intelligent evaluation pipeline suitable for exams, technical assessments, and learning platforms.
